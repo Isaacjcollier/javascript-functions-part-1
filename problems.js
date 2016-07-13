@@ -104,7 +104,7 @@ function oddNumbers (num) {
     }
   } else if (num < 40) {
     for (var j = 0; j < num; j++) {
-      if (j % 2 !== 0) {
+      if (i % 2 !== 0) {
         console.log(j)
       }
     }
